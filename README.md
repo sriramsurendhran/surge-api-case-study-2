@@ -1,2 +1,2 @@
-# surge-api-case-study-2
-surge-api-case-study-2
+SURGE-4.0 training
+Azure Function App with Terraform
